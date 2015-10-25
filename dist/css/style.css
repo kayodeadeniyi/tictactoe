@@ -1,0 +1,16 @@
+.node{
+  text-align: center;
+  vertical-align: middle;
+  line-height: 80px;
+  margin: 5px;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 60px;
+  background-color: #00695c;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 270px;
+}
